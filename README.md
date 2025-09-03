@@ -1,6 +1,6 @@
 # FUSED: Multi-Omics Drug Response Prediction
 
-FUSED is a deep learning framework for predicting drug response in cancer cell lines using multi-omics data and advanced drug embeddings. This repository contains code, data, and scripts for reproducing the experiments in our NeurIPS 2025 submission. For anonymity reasons, this repo was created using only web ui, hence the src folder is a zip that needs to be unpacked locally.
+FUSED is a deep learning framework for predicting drug response in cancer cell lines using multi-omics data and foundation model based drug embeddings, but excels in only-transcriptomic settings. This repository contains code, data, and scripts for reproducing the experiments in our NeurIPS 2025 submission. For anonymity reasons, this repo was created using only web ui, hence the src folder is a zip that needs to be unpacked locally.
 
 ## Project Structure
 
@@ -45,7 +45,7 @@ FUSED is a deep learning framework for predicting drug response in cancer cell l
 
 ## Citation
 
-If you use FUSED in your research, please cite our NeurIPS 2025 paper.
+If you use FUSED in your research, please cite our paper.
 
 ## License
 
@@ -54,7 +54,3 @@ See [`LICENSE`](LICENSE).
 ## Contact
 
 For questions, please contact the authors or open an issue.
-
----
-
-**Note:** Create a `checkpoint` directory in [`src`](src)
