@@ -1,0 +1,5 @@
+# ignore checkpoints
+src/checkpoint/
+
+# ignore evaluation results
+src/data/eval*
