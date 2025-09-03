@@ -1,4 +1,5 @@
-# FUSED: Multi-Omics Drug Response Prediction
+# FUSED: An Integrative Foundation Model Approach for Drug
+Response Prediction
 
 FUSED is a deep learning framework for predicting drug response in cancer cell lines using multi-omics data and foundation model based drug embeddings, but excels in only-transcriptomic settings. This repository contains code, data, and scripts for reproducing the experiments in our NeurIPS 2025 submission. For anonymity reasons, this repo was created using only web ui, hence the src folder is a zip that needs to be unpacked locally.
 
